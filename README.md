@@ -53,7 +53,6 @@ creates `jee_data.csv`.
 
 This project is made for tracking JEE mock test performance. It does not
 predict official JEE rank or percentile.
-der.
 
 ## Note
 
